@@ -1,4 +1,4 @@
-# Sentiment Classification using Transformer and BERT Models in PyTorch
+# Sentiment Classification using Transformer and BERT Models
 
 ## Overview
 
