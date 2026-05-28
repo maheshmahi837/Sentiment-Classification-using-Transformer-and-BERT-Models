@@ -1,0 +1,2 @@
+# Sentiment-Classification-using-Transformer-and-BERT-Models-in-PyTorch
+Implemented custom Transformer and BERT-based sentiment classification models on the SST-2 dataset using PyTorch. The project includes text preprocessing, positional encoding, multi-head self-attention, custom and built-in Transformer encoder architectures, transfer learning with BERT, and evaluation using accuracy, precision, and recall metrics.
